@@ -1,0 +1,16 @@
+.chat-editor {
+    .quill {
+        height: 150px;
+        margin-bottom: 1rem;
+    }
+
+    .ql-container {
+        min-height: 100px;
+        max-height: 200px;
+        overflow-y: auto;
+    }
+
+    .ql-editor {
+        font-size: 16px;
+    }
+    }
